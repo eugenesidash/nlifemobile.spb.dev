@@ -1,0 +1,1966 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AccessPress Staple v1.6.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-09-04 11:14+0300\n"
+"Last-Translator: admin <dyba03@yandex.ua>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ accesspress-staple
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ошибка 404: страница не найдена."
+
+# @ accesspress-staple
+#: 404.php:20
+msgid "It looks like nothing was found at this location."
+msgstr "К сожалению, по вашему запросу ничего не найдено"
+
+# @ accesspress-staple
+#: 404.php:24
+msgid "404"
+msgstr ""
+
+# @ accesspress-staple
+#: 404.php:25
+msgid "error"
+msgstr "ошибка"
+
+# @ accesspress-staple
+#: archive.php:27
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+# @ accesspress-staple
+#: archive.php:30
+#, php-format
+msgid "Day: %s"
+msgstr "День: %s"
+
+# @ accesspress-staple
+#: archive.php:33
+#, php-format
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+# @ accesspress-staple
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ accesspress-staple
+#: archive.php:36
+#, php-format
+msgid "Year: %s"
+msgstr "Год: %s"
+
+# @ accesspress-staple
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ accesspress-staple
+#: archive.php:39
+msgid "Asides"
+msgstr "Заметки"
+
+# @ accesspress-staple
+#: archive.php:42
+msgid "Galleries"
+msgstr "Галереи"
+
+# @ accesspress-staple
+#: archive.php:45
+msgid "Images"
+msgstr "Изображения"
+
+# @ accesspress-staple
+#: archive.php:48
+msgid "Videos"
+msgstr "Видео"
+
+# @ accesspress-staple
+#: archive.php:51
+msgid "Quotes"
+msgstr "Цитаты"
+
+# @ accesspress-staple
+#: archive.php:54
+msgid "Links"
+msgstr "Ссылки"
+
+# @ accesspress-staple
+#: archive.php:57
+msgid "Statuses"
+msgstr "Статусы"
+
+# @ accesspress-staple
+#: archive.php:60
+msgid "Audios"
+msgstr "Аудио"
+
+# @ accesspress-staple
+#: archive.php:63
+msgid "Chats"
+msgstr "Чаты"
+
+# @ accesspress-staple
+#: archive.php:66
+msgid "Archives"
+msgstr "Архивы"
+
+# @ accesspress-staple
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один комментарий на &ldquo;%2$s&rdquo;"
+msgstr[1] "Комментариев: %1$s на &ldquo;%2$s&rdquo;"
+
+# @ accesspress-staple
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ accesspress-staple
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+# @ accesspress-staple
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+# @ accesspress-staple
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+# @ accesspress-staple
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ accesspress-staple
+#: content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою запись? <a href=\"%1$s\">Начните сейчас</a>"
+
+# @ accesspress-staple
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+# @ accesspress-staple
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, вам поможет поиск."
+
+# @ accesspress-staple
+#: content-page.php:20 content-single.php:20 content.php:202
+#: front-page.php:612
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ accesspress-staple
+#: content-page.php:27 inc/template-tags.php:122
+msgid "Edit"
+msgstr "Изменить"
+
+# @ accesspress-staple
+#: content-search.php:25 inc/accesspress-options.php:711
+msgid "Read More"
+msgstr "Читать дальше"
+
+# @ accesspress-staple
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: content.php:213 content.php:223 front-page.php:622 front-page.php:632
+#: inc/template-tags.php:104 inc/template-tags.php:110
+msgid ", "
+msgstr ""
+
+# @ accesspress-staple
+#: content.php:217 front-page.php:626 inc/template-tags.php:106
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Опубликовано: %1$s"
+
+# @ accesspress-staple
+#: content.php:227 front-page.php:636 inc/template-tags.php:112
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s"
+
+# @ accesspress-staple
+#: footer.php:51
+msgid "Copyright"
+msgstr "Все права защищены"
+
+# @ accesspress-staple
+#: footer.php:59
+msgid "WordPress Theme:"
+msgstr ""
+
+# @ accesspress-staple
+#: footer.php:73
+msgid "top"
+msgstr "Наверх"
+
+# @ accesspress-staple
+#: front-page.php:498
+msgid "No comment"
+msgstr "Нет комментариев"
+
+# @ accesspress-staple
+#: front-page.php:498 inc/template-tags.php:118
+msgid "1 Comment"
+msgstr "Один комментарий"
+
+# @ accesspress-staple
+#: front-page.php:498 inc/template-tags.php:118
+msgid "% Comments"
+msgstr "Комментариев: %"
+
+# @ accesspress-staple
+#: functions.php:59 header.php:86
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+# @ accesspress-staple
+#: functions.php:90
+msgid "Left Sidebar"
+msgstr "Сайдбар слева"
+
+# @ accesspress-staple
+#: functions.php:99
+msgid "Right Sidebar"
+msgstr "Сайдбар справа"
+
+# @ accesspress-staple
+#: functions.php:108
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+# @ accesspress-staple
+#: functions.php:117
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+# @ accesspress-staple
+#: functions.php:126
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+# @ accesspress-staple
+#: functions.php:135
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+# @ tgmpa
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:333
+#: inc/accesspress-function.php:356
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ tgmpa
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:334
+#: inc/accesspress-function.php:357
+msgid "Install Plugins"
+msgstr ""
+
+# @ tgmpa
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:335
+#: inc/accesspress-function.php:358
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ tgmpa
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:336
+#: inc/accesspress-function.php:359
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:338
+#: inc/accesspress-function.php:360
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:343
+#: inc/accesspress-function.php:361
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:348
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:353
+#: inc/accesspress-function.php:366
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:363
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:368
+#: inc/accesspress-function.php:363
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:373
+#: inc/accesspress-function.php:364
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:378
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:383
+#: inc/accesspress-function.php:368
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:393
+#: inc/accesspress-function.php:369
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ tgmpa
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:397
+#: inc/accesspress-function.php:370
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+# @ tgmpa
+# @ accesspress-staple
+#: inc/accesspress-class-tgm-plugin-activation.php:399
+#: inc/accesspress-class-tgm-plugin-activation.php:3034
+#: inc/accesspress-function.php:371
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:402
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:833
+#: inc/accesspress-class-tgm-plugin-activation.php:3443
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:940
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:940
+#: inc/accesspress-class-tgm-plugin-activation.php:943
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:943
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:1121
+#: inc/accesspress-class-tgm-plugin-activation.php:2833
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:1886
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2240
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2285
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2376
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2496
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2505
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2575
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2793
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:2819
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+# @ tgmpa
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: inc/accesspress-class-tgm-plugin-activation.php:2837
+#: inc/accesspress-class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:3374
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:3375
+#: inc/accesspress-class-tgm-plugin-activation.php:3381
+msgid "Show Details"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:3375
+#: inc/accesspress-class-tgm-plugin-activation.php:3381
+msgid "Hide Details"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:3380
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:3381
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+# @ tgmpa
+#: inc/accesspress-class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-custom-metabox.php:17
+msgid "Left sidebar"
+msgstr "Левый сайдбар"
+
+# @ accesspress-staple
+#: inc/accesspress-custom-metabox.php:22
+msgid "Right sidebar<br/>(default)"
+msgstr "Сайдбар справа<br/>(по умолчанию)"
+
+# @ accesspress-staple
+#: inc/accesspress-custom-metabox.php:27
+msgid "Both Sidebar"
+msgstr "2 сайдбара"
+
+# @ accesspress-staple
+#: inc/accesspress-custom-metabox.php:33
+msgid "No sidebar"
+msgstr "Без сайдбара"
+
+# @ accesspress-staple
+#: inc/accesspress-function.php:190
+msgid "skype:"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-function.php:362
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ accesspress-staple
+#: inc/accesspress-function.php:365
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ accesspress-staple
+#: inc/accesspress-function.php:367
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ accesspress-staple
+#: inc/accesspress-function.php:372
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:22
+msgid "FullWidth"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:23
+msgid "Boxed"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:27
+msgid "Grid"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:28
+msgid "List"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:32
+msgid "Left"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:33
+msgid "Right"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:34
+msgid "Center"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:38
+msgid "Single Post as Slider"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:39
+msgid "Category Posts as slider"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:42
+msgid "Transparent"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:43
+msgid "Classic"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:67 inc/accesspress-options.php:71
+#: inc/accesspress-options.php:80
+msgid "Yes"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:68 inc/accesspress-options.php:72
+#: inc/accesspress-options.php:81
+msgid "No"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:75
+msgid "Fade"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:76
+msgid "Slide Horizontal"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:77
+msgid "Slide Vertical"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:84
+msgid "Show"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:85
+msgid "Hide"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:88
+msgid "Static Images"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:89
+msgid "Logo Slider"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:98
+msgid "View Documentaion"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:99
+msgid "View Demo"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:101
+msgid "Forum:"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:101
+msgid "Live Chat:"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:102
+msgid "We offer WordPress Themes/Plugins development, customization, design integration, WordPress setup, fixes etc."
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:103
+msgid "Email:"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:109
+msgid "View all Themes"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:111
+msgid "WordPress Themes"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:119
+msgid "View all Plugins"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:121
+msgid "WordPress Plugins"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:129
+msgid "Request Customization"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:131
+msgid "WordPress Customization"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:141
+msgid "Basic Setting"
+msgstr "Основные настройки"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:145
+msgid "Web Page Layout"
+msgstr "Структура"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:152
+msgid "Upload Favicon"
+msgstr "Загрузить фавикон"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:162
+msgid "Size of logo should be 270 x 70px"
+msgstr "Размер логотипа должен быть 270 х 70px"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:167
+msgid "Copyright Footer Text"
+msgstr "Текст копирайта"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:178
+msgid "Header Setting"
+msgstr "Шапка"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:182
+msgid "Header Type"
+msgstr "Тип заголовка"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:189
+msgid "Show Search in Header"
+msgstr "Показать поиск в заголовке"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:190
+msgid "Click here to Show or Hide Search in Header"
+msgstr "Выберите показать или скрыть поиск в шапке"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:198
+msgid "Search PlaceHolder Text"
+msgstr "Текст в форме поиска"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:204
+msgid "Search Button Text"
+msgstr "Поиск - текст кнопки"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:210
+msgid "Logo Alignment"
+msgstr "Выравнивание логотипа"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:222
+msgid "Home Page Setting"
+msgstr "Главная страница"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:226
+msgid "About Section"
+msgstr "Показать раздел О компании"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:230
+msgid "Enable About Section"
+msgstr "Показать раздел О компании"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:239
+msgid "Select the Post to show About Section"
+msgstr "Выберите записи, чтобы показать в разделе"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:246
+msgid "About View More Text"
+msgstr "Текст Читать далее"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:252
+msgid "Feature Section"
+msgstr "Секция Избранного"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:256
+msgid "Enable Feature Section"
+msgstr "Включить секцию Избранного"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:265 inc/accesspress-options.php:336
+msgid "Feature Section Title"
+msgstr "Секция Избранного - заголовок"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:271 inc/accesspress-options.php:342
+msgid "Feature Section Description"
+msgstr "Секция Избранного - описание"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:276
+msgid "Select the Category to show Feature Section"
+msgstr "Выберите рубрики, чтобы показать в разделе"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:283 inc/accesspress-options.php:354
+#: inc/accesspress-options.php:658
+msgid "Display View All Button"
+msgstr "Показывать кнопку Смотреть всё"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:292 inc/accesspress-options.php:363
+#: inc/accesspress-options.php:666
+msgid "View All Button Text"
+msgstr "Текст кнопки"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:298
+msgid "Pricing Table Section"
+msgstr "Секция Таблица цен"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:302
+msgid "Enable Pricing Table"
+msgstr "Включить секцию Таблица цен"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:306
+msgid "Go to Pricing Table Setting tab to add the table"
+msgstr "Перейти к ценообразованию таблице вкладку Настройка, чтобы добавить таблицу"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:311
+msgid "Pricing Table Title"
+msgstr "Секция Таблица цен - заголвок"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:317
+msgid "Pricing Table Description"
+msgstr "Секция Таблица цен - описание"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:323
+msgid "Awesome Features Section"
+msgstr "Секция Прикрепленные записи"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:327
+msgid "Enable Awesome Feature Section"
+msgstr "Включить секцию Прикрепленные записи"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:347
+msgid "Select the Category to show Awesome Feature Section"
+msgstr "Выберите рубрики, чтобы показать в разделе"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:369
+msgid "Portfolio Section"
+msgstr "Секция Портфолио"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:373
+msgid "Enable Portfolio Section"
+msgstr "Включить секцию Портфолио"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:382
+msgid "Portfolio Section Title"
+msgstr "Секция Портфолио - заголовок"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:388
+msgid "Portfolio Section Description"
+msgstr "Секция Портфолио - описание"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:394
+msgid "Select the Category to show Portfolio Section"
+msgstr "Выберите рубрики, чтобы показать в разделе"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:401
+msgid "Client Logo Section"
+msgstr "Секция Лого клиента"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:405
+msgid "Enable Client Logo Section"
+msgstr "Включить секцию Лого клиента"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:411
+msgid "Go to <strong>Upload Client Logo</strong> tab to upload logo"
+msgstr "Загрузить логотип"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:414
+msgid "View Type"
+msgstr "Смотреть тип"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:421
+msgid "Clients Title"
+msgstr "Название клиентов"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:427
+msgid "Clients Desription"
+msgstr "Клиенты - описание"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:434
+msgid "Call To Action"
+msgstr "Призыв к действию"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:438
+msgid "Enable Call To Action"
+msgstr "Включить призыв к действию"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:446
+msgid "Call To Action Title"
+msgstr "Заголовок для секции призыва к действию"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:452
+msgid "Call To Action Description"
+msgstr "Описание для секции призыва к действию"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:458
+msgid "Read More Text"
+msgstr "Читать дальше - текст"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:464
+msgid "Read More Link"
+msgstr "Читать далее - ссылка"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:470
+msgid "Background Image for Call to Action"
+msgstr "Фоновое изображение для призыва к действиям"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:476
+msgid "Team Member Section"
+msgstr "Секция Наша команда"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:480
+msgid "Enable Team Member Section"
+msgstr "Включить секцию Наша команда"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:488
+msgid "Team Member Title"
+msgstr "Секция Наша команда - заголовок"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:494
+msgid "Category For Team Member"
+msgstr "категории для секции"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:500
+msgid "Stat Counter"
+msgstr "Счётчик"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:504
+msgid "Enable Stat Counter"
+msgstr "Включить счетчик"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:512
+msgid "Stat Counter Title"
+msgstr "Название счетчика"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:518
+msgid "Stat Counter Description"
+msgstr "Опсиание счётчика"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:524
+msgid "Counter 1"
+msgstr "Счетчик 1"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:529 inc/accesspress-options.php:553
+#: inc/accesspress-options.php:577 inc/accesspress-options.php:601
+msgid "Title"
+msgstr "Заголовок"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:535 inc/accesspress-options.php:559
+#: inc/accesspress-options.php:583 inc/accesspress-options.php:607
+msgid "Number"
+msgstr "Число"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:541 inc/accesspress-options.php:565
+#: inc/accesspress-options.php:589 inc/accesspress-options.php:613
+msgid "Font Awesome text"
+msgstr "Семейство шрифта"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:544 inc/accesspress-options.php:568
+#: inc/accesspress-options.php:592 inc/accesspress-options.php:616
+#, php-format
+msgid "Add Font Aawesome Code example:fa-bell, Please go to <a href=\"%s\" target=\"_blank\">Font Awesome Website</a>"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:548
+msgid "Counter 2"
+msgstr "Счетчик 2"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:572
+msgid "Counter 3"
+msgstr "Счетчик 3"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:596
+msgid "Counter 4"
+msgstr "Счетчик 4"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:620
+msgid "Blog Section"
+msgstr "Секция Блога"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:624
+msgid "Enable Blog Section"
+msgstr "Включить секцию блога"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:633
+msgid "Blog Title"
+msgstr "Название блога"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:639
+msgid "Blog Description"
+msgstr "Описание блога"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:645
+msgid "Read More Text for Single Page"
+msgstr "Читать дальше - текст"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:651
+msgid "Select Category to show Blog Section"
+msgstr "Выберите рубрики, чтобы показать в разделе"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:672
+msgid "Testimonails Section"
+msgstr "Секция Отзывы"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:676
+msgid "Enable Testimonial Section"
+msgstr "Включить секцию Отзывы"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:684
+msgid "Testimonial Title"
+msgstr "Секция Отзывы - название"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:690
+msgid "Category For Testimonial"
+msgstr "﻿Категория отзывов"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:696
+msgid "Latest Post"
+msgstr "Последние записи"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:700
+msgid "Enable Latest Post Section"
+msgstr "Включить последние записи"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:708
+msgid "ReadMore text for Latest Post"
+msgstr "Читать далее - текст"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:724
+msgid "Pricing Table Settings"
+msgstr "Настройки таблицы цен"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:728
+msgid "Table 1"
+msgstr "Таблица 1"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:732 inc/accesspress-options.php:767
+#: inc/accesspress-options.php:803
+msgid "Table Content and Title"
+msgstr "Содержание таблицы и название"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:751 inc/accesspress-options.php:786
+#: inc/accesspress-options.php:823
+msgid "More Link Text"
+msgstr "Читать дальше - текст"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:757 inc/accesspress-options.php:792
+#: inc/accesspress-options.php:829
+msgid "More Link(URL)"
+msgstr "URL дополнительной ссылки"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:763
+msgid "Table 2"
+msgstr "Таблица 2"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:799
+msgid "Table 3"
+msgstr "Таблица 3"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:839
+msgid "Slider Setting"
+msgstr "Слайдер"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:843
+msgid "Enable Slider"
+msgstr "Включить слайдер"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:845
+msgid "The Best Size of the image is 1800 X 660px"
+msgstr "Лучший размер изображения составляет 1800 х 660px"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:853
+msgid "Choose the category to show in Slider"
+msgstr "Выберите категории, чтобы показать в слайдере"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:859
+msgid "Slider Button Text"
+msgstr "Текст кнопки Слайдера"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:865
+msgid "Show Pager (Navigation Dot)"
+msgstr "Показать навигацию"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:872
+msgid "Show Controls"
+msgstr "Показать элементы управления"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:879
+msgid "Slider Transition (Fade/Slide)"
+msgstr "Переход слайдов (затухание/слайд)"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:886
+msgid "Slider auto Transactions"
+msgstr "Автоматическое обновление слайд-шоу"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:893
+msgid "Slider Speed"
+msgstr "Скорость слайдера"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:899
+msgid "Slider Pause"
+msgstr "Пауза слайдера"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:905
+msgid "Show Slider Caption"
+msgstr "Слайдер с заголовком"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:916
+msgid "Social Setting"
+msgstr "Настройка Социальных сетей"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:920
+msgid "Social Icon in header"
+msgstr "Показать Социальные иконки в шапке"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:928
+msgid "Social Icon in footer"
+msgstr "Социальные иконки в футере"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:936
+msgid "Facebook"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:942
+msgid "Twitter"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:948
+msgid "Google Plus"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:953
+msgid "Youtube"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:958
+msgid "Pinterest"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:963
+msgid "Linkedin"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:968
+msgid "Flicker"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:973
+msgid "Vimeo"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:978
+msgid "Stumbleupon"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:983
+msgid "Instagram"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:988
+msgid "Sound Cloud"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:993
+msgid "GitHub"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:998
+msgid "Skype"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1003
+msgid "Tumbler"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1008
+msgid "RSS"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1016
+msgid "Archive Page Setting"
+msgstr "Настройки Архивов"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1019
+msgid "Portfolio"
+msgstr "Портфолио"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1023
+msgid "Portfolio Layout"
+msgstr "Структура портфолио"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1030
+msgid "Read More Text for Portfolio list"
+msgstr "Текст ссылки читать дальше для портфолио"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1037
+msgid "Team Member"
+msgstr "Участники команды"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1041
+msgid "Team Member Layout"
+msgstr "Структура участников команды"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1048
+msgid "Read More Text for Team Member list"
+msgstr "Текст ссылки читать дальше для участников команды"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1054
+msgid "Archive"
+msgstr "Архив"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1058
+msgid "Read More Text for Archive"
+msgstr "Текст ссылки читать дальше для архива"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1071 inc/accesspress-options.php:1075
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1085
+msgid "Upload Client Logo"
+msgstr "Загрузить логотип"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1089
+msgid "Associate Logo"
+msgstr "Ассоциировать лого"
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1100
+msgid "About AccessPress Staple"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1110
+msgid "For Support"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1115
+msgid "For Customization"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1123
+msgid "About AccessPress Themes"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/accesspress-options.php:1132
+msgid "More from AccessPress Themes"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/extras.php:63
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-framework-admin.php:82
+#: inc/options-framework/includes/class-options-framework-admin.php:83
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-framework-admin.php:177
+msgid "AccessPress Staple"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-framework-admin.php:195
+msgid "Save Options"
+msgstr "Сохранить настройки"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-framework-admin.php:196
+msgid "Restore Defaults"
+msgstr "Сброс настроек"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-framework-admin.php:196
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Нажмите OK, чтобы сбросить. Все настройки темы будут потеряны!"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-framework-admin.php:206
+msgid "Update to Pro"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-framework-admin.php:214
+#, php-format
+msgid "Any question!! Click <a href=\"%s\" target=\"_blank\">here</a> for live chat"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-framework-admin.php:218
+msgid "View Features"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-framework-admin.php:252
+msgid "Default options restored."
+msgstr ""
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-framework-admin.php:306
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-interface.php:317
+msgid "Add Logo"
+msgstr "Добавить логотип"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-media-uploader.php:61
+msgid "No file chosen"
+msgstr "Файл не выбран"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-media-uploader.php:64
+#: inc/options-framework/includes/class-options-media-uploader.php:117
+msgid "Upload"
+msgstr "Загрузка"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-media-uploader.php:66
+#: inc/options-framework/includes/class-options-media-uploader.php:118
+msgid "Remove"
+msgstr "Удалить"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-media-uploader.php:69
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-media-uploader.php:93
+msgid "View File"
+msgstr "Просмотреть файл"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:327
+msgid "No Repeat"
+msgstr "Не повторять"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:328
+msgid "Repeat Horizontally"
+msgstr "Повторить по горизонтали"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:329
+msgid "Repeat Vertically"
+msgstr "Повторить по вертикали"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:330
+msgid "Repeat All"
+msgstr "Повторить все"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:360
+msgid "Top Left"
+msgstr "Слева вверху"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:361
+msgid "Top Center"
+msgstr "Вверху-по центру"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:362
+msgid "Top Right"
+msgstr "Справа cверху"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:363
+msgid "Middle Left"
+msgstr "Слева посередине"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:364
+msgid "Middle Center"
+msgstr "Посередине по центру"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:365
+msgid "Middle Right"
+msgstr "Посередине справа"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:366
+msgid "Bottom Left"
+msgstr "Снизу слева"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:367
+msgid "Bottom Center"
+msgstr "Внизу по центру"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:368
+msgid "Bottom Right"
+msgstr "Снизу справа"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:380
+msgid "Scroll Normally"
+msgstr "Нормальная прокрутка"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:381
+msgid "Fixed in Place"
+msgstr "Зафиксировать на месте"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:453
+msgid "Normal"
+msgstr "Нормальный"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:454
+msgid "Italic"
+msgstr "Курсив"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:455
+msgid "Bold"
+msgstr "Жирный"
+
+# @ accesspress-staple
+#: inc/options-framework/includes/class-options-sanitization.php:456
+msgid "Bold Italic"
+msgstr "Жирный курсив"
+
+# @ accesspress-staple
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+# @ accesspress-staple
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старые записи"
+
+# @ accesspress-staple
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Новые записи <span class=\"meta-nav\">&rarr;</span>"
+
+# @ accesspress-staple
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+# @ accesspress-staple
+#: inc/template-tags.php:55
+#, php-format
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/template-tags.php:56
+#, php-format
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+# @ accesspress-staple
+#: inc/template-tags.php:82
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано: %s"
+
+# @ accesspress-staple
+#: inc/template-tags.php:87
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "Автор: %s"
+
+# @ accesspress-staple
+#: inc/template-tags.php:118
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+# @ accesspress-staple
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
