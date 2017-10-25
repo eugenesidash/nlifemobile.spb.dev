@@ -48,8 +48,7 @@
 					<div id="bottom-footer">
         				<div class="ak-container">
         					<div class="copyright">
-        						<?php _e('Copyright', 'accesspress-staple'); ?> &copy; <?php echo date('Y') ?>   
-        		                <span class="free-credit"> | <a href="http://accesspressthemes.com/" target="_blank">AccessPress Staple</a> <a href="http://weboboi.ru/" title="обои для рабочего стола широкоформатные высокое качество бесплатно" target="_blank">обои на рабочий стол широкоформатные</a></span>
+        						Copyright &copy; <?php echo date('Y') ?>
         					</div>
         		            <?php if(of_get_option('social_footer')==1){ ?>
         		            <div class="ak_footer_social">
