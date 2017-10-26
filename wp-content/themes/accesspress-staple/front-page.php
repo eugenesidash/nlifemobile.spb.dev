@@ -133,7 +133,7 @@ if(!empty($post_id)):
     $ak_pricing_more_text3   = of_get_option('table3_more_text');
     $ak_pricing_more_link3   = of_get_option('table3_more_link');
    ?>  
-   <section class="pricing-table">
+   <section class="pricing-table" id="price">
         <div class="ak-container">
 
             <h2 class="topic home-title"><?php echo $ak_pricing_title; ?></h2>
@@ -474,7 +474,7 @@ endif;
 <?php 
                 if(!empty($ak_blog_cat)):?>
             
-    <section class="blogs wow fadeInUp animated" data-wow-delay="0.8s">
+    <section class="blogs wow fadeInUp animated" data-wow-delay="0.8s" id="blog">
        <div class="ak-container">
         <h2 class="blog-title"><?php echo esc_attr(of_get_option('blog_title')); ?></h2>
         <div class="blog-desc"><?php echo wp_kses_post(of_get_option('blog_desc')); ?></div>
@@ -530,7 +530,7 @@ endif;
       $ak_tm_cat  =   of_get_option('testomonial_category');
       if(!empty($ak_tm_cat)):
 ?>
-    <section class="testimonial">
+    <section class="testimonial" id="revies">
         <div class="ak-container">
             <h2 class="testimonial-title"><?php echo esc_attr(of_get_option('testomonial_title')); ?></h2>
             <?php 
@@ -543,7 +543,7 @@ endif;
                 while($tm_query->have_posts()):$tm_query->the_post();
                 ?>
                 <div class="tm-slider">
-                    <?php echo accesspress_excerpt(get_the_content(), 220);?>
+                    <?php echo accesspress_excerpt(get_the_content(), 420);?>
                     <div class="title-test"> <?php the_title();?> </div>
                     
                 </div>

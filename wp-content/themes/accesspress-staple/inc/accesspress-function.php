@@ -103,11 +103,6 @@ function accesspress_sidebar_layout($classes){
 						<div class="slides">
 							<div class="staple-overlay"></div>
 							<img src="<?php echo get_template_directory_uri()?>/images/banner.jpg">
-							<div class="slider-text">
-								<p>Оперативное восстановление сложной техники</p>
-								<h1>Ремонт <span>телефонов</span></h1>
-								<p>Диагностика, устранение неисправностей, оригинальные запчасти</p>
-							</div>
 						</div>
 					</div>
 					<?php
